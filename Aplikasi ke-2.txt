@@ -1,6 +1,6 @@
 Ketentuan pembuatan Aplikasi ke-2
-- Dilakukan berkelompok 2-3 orang perkelompok
-- Pembagian kelompok ditentukan oleh Guru Pengajar
-- Masing-masing kelompok menentukan pembagian tugas yang akan dilakukan oleh setiap anggota kelompok
-- Setiap kelompok harus membuat rencana kerja yang berisi jenis kegiatan, waktu yang diperlukan dan penanggung jawab kegiatan menggunakan aplikasi project manager
-- Pembuatan aplikasi meliputi design database, system dan layout lalu di lanjut dengan pembuatan Aplikasi
+1. Dilakukan berkelompok 2-3 orang perkelompok
+2. Pembagian kelompok ditentukan oleh Guru Pengajar
+3. Setiap kelompok harus membuat rencana kerja yang berisi jenis kegiatan, waktu yang diperlukan dan penanggung jawab kegiatan menggunakan aplikasi project manager
+4. Pembuatan aplikasi meliputi design database, system dan layout lalu di lanjut dengan pembuatan Aplikasi
+5. Setiap kelompok harus membuat dokumentasi pembuatan aplikasi dalam bentuk format laporan yang mengacu pada format laporan PKL
