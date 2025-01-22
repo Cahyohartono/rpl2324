@@ -5,6 +5,7 @@ RENCANA FITUR APLIKASI BANK MINI
    c. tbl_jurusan
    d. tbl_informasi
    e. tbl_kelas
+   f. tbl_tingkat
 2. Konfigurasi
    a. Data Pengguna
    b. Data Informasi Aplikasi
@@ -13,5 +14,7 @@ RENCANA FITUR APLIKASI BANK MINI
    a. Data Tahun Ajaran
    b. Data Jurusan
    c. Data Kelas
+   d. Data Tingkat
 4. Transaksi
    a. Tabungan Masuk
+   b. Penarikan Tabungan
