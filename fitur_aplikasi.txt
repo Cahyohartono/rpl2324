@@ -1,7 +1,9 @@
 RENCANA FITUR APLIKASI BANK MINI
 1. Database
    a. tbl_user
-   b. tbl_
+   b. tbl_informasi
+   c. tbl_tahun_ajaran
+   d. tbl_jurusan
 2. Konfigurasi
    a. Data Pengguna
    b. Data Informasi Aplikasi 
