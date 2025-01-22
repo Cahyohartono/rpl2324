@@ -3,3 +3,5 @@ Rencana Pembuatan Aplikasi berbeda Platform
 2. Siswa bebas menentukan platform asalkan berbeda platform dengan teman satu kelompok
 3. Jenis platform dapat dipilih : PHP Native, PHP Framework (laravel, CI dll), Android (Flutter, Android Studio dll)
 4. Untuk design layout pada dokumetasi laporan maka harus menyesuaikan dengan platform yang di pilih, dan dikerjakan oleh masing-masing orang sesuai platform yang di pilih
+5. Pembuatan design database dan system bisa digunakan secara bersam-sama secara kolaborasi dengan teman satu kelompok
+6. Database harus bisa di akses secara bersama, untuk itu pilih jenis database yang dapat mudah di gunakan secara kolaborasi
